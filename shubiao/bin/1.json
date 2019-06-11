@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":640,"height":1136},"compId":2,"child":[{"type":"Sprite","props":{"y":411.5,"x":64,"texture":"war/ball.png","runtime":"Ball.ts"},"compId":3}],"loadList":["war/ball.png"],"loadList3D":[]}
